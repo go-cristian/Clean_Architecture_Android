@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="topeka_primary">#00bad2</color>
+    <color name="topeka_primary_dark">#00a3b8</color>
+    <color name="topeka_blank">#424242</color>
+    <color name="topeka_accent">#3F51B5</color>
+
+    <color name="text_light">@android:color/white</color>
+    <color name="text_dark">#616161</color>
+
+    <color name="green">#00e676</color>
+    <color name="red">#ff5252</color>
+    <color name="light_grey">#f5f5f5</color>
+
+</resources>
